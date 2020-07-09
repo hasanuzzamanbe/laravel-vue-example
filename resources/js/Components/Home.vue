@@ -16,8 +16,6 @@
                             alt="Vue"
                         />
                         <p style="text-align:center;">We'd love to help you.</p>
-                        <el-button class="el-icon-close" type="danger"> click here</el-button>
-                        <el-button type="primary" icon="el-icon-search">Search</el-button>
                     </div>
                 </div>
             </el-col>

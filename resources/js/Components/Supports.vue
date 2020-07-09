@@ -12,16 +12,17 @@
                             <li>
                                 <a
                                     target="_blank"
-                                    href="https://github.com/hasanuzzamanbe/vue-cli-php-mysql"
+                                    href="https://github.com/hasanuzzamanbe/laravel-vue-example"
                                 >Fork me on github or clone</a> and help spread the word!
                             </li>
                             <li>
                                 <a
-                                    href="https://github.com/hasanuzzamanbe/vue-cli-php-mysql/issues"
+                                    target="_blank"
+                                    href="https://github.com/hasanuzzamanbe/laravel-vue-example/issues"
                                 >Report bugs</a> (with steps to reproduce) or
                                 <a
                                     target="_blank"
-                                    href="https://github.com/hasanuzzamanbe/vue-cli-php-mysql"
+                                    href="https://github.com/hasanuzzamanbe/laravel-vue-example/pulls"
                                 >Submit pull requests on GitHub</a>
                             </li>
                             <li>
