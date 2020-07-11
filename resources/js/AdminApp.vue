@@ -24,7 +24,7 @@ export default {
             topMenus: [
                 {
                     route: "home",
-                    title: "home"
+                    title: "Home"
                 },
                 {
                     route: "supports",
