@@ -8,10 +8,13 @@
 </p>
 
 ## This is a Laravel and Vue example project
+> N.B: Click the right setup instruction that you need and follow all the commands.
+## Setup  instructions:
+<details>
+<summary>
+    Setup and use this existing repository:
+</summary>
 
-
-> To run on your Local:
-## Setup and Install:
 1. Clone or <a href="https://github.com/hasanuzzamanbe/laravel-vue-example/archive/master.zip">download this </a> git repository. 
 > Run on command:
 2. Install composer run $` composer install`
@@ -22,6 +25,37 @@
 ## Run server:
 6. Run node server $` npm run watch`
 7. Run PHP server $` php artisan serve`
+
+</details>
+
+
+<details>
+<summary>
+ Or  Create a new Laravel + Vue fresh Project:
+</summary>
+
+1. install laravel globaly:
+
+    `composer global require laravel/installer`
+
+2. using composer create your project:
+
+    `composer create-project --prefer-dist laravel/laravel my-project`
+
+3. Navigate your project then:
+
+    `composer require laravel/ui`
+
+4. install node and run dev server:
+
+    `npm install && npm run dev`
+5. Run laravel server:
+
+    `php artisan ui vue`
+
+Setup your Vue files on resource directory like this example project
+</details>
+
 
 ## Some suggestions for beginner's:
 
