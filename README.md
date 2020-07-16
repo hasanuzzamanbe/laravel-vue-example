@@ -1,5 +1,5 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
+<p align="center"><img src="https://vuejs.org/images/logo.png" width="150"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -53,7 +53,9 @@
 
     `php artisan ui vue`
 
-Setup your Vue files on resource directory like this example project
+Setup your Vue files on resource directory like this example project.
+
+visit laravel <a href="https://laravel.com/docs/7.x">official documentation</a>  for details.
 </details>
 
 
