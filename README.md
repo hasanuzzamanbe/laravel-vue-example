@@ -63,7 +63,7 @@ visit laravel <a href="https://laravel.com/docs/7.x">official documentation</a> 
 
 * Write Vue file's on resource directory.
 * Check package.json file to see installed packages
-> Some already installed npm packages:
+> Installed packages (npm):
 * element-ui
 * vue-router
 
